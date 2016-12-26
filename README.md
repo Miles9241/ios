@@ -1,2 +1,2 @@
 # ios
-ios练手
+io-study
